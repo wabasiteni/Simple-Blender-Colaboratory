@@ -4,7 +4,7 @@
 🛠️ Render your blend files using Google's Virtual GPU
 🔄 Cycle Renderer only supported for now
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexledd/Blender-Colaboratory/blob/main/Simple_Blender_Render.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wabasiteni/Simple-Blender-Colaboratory/blob/main/Simple_Blender_Render.ipynb)
 
 📙 Simplified Jupyter Notebook for people who frustrated with a bunch of codes
 
