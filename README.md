@@ -9,7 +9,7 @@
 📙 Simplified Jupyter Notebook for people who frustrated with a bunch of codes
 
 ---
-⚙️ Only Blender 3.X.X and 4.X.X are available in the dictionary
+⚙️ Only Blender 3.X.X and 5.X.X are available in the dictionary
 
 🗄️ Add your own version of Blender from https://ftp.nluug.nl/pub/graphics/blender/release
 
